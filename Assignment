@@ -1,1 +1,2 @@
 Completed Server Connection and Handshake. Also created loops for GETS
+Created Loop for NRecs and recieved each record.
