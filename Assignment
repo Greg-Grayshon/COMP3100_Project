@@ -2,3 +2,4 @@ Completed Server Connection and Handshake. Also created loops for GETS
 Created Loop for NRecs and recieved each record.
 Currenty working on how to locate Server with most Cores. in testing/protoyping
 Located Server Type with highest Cores, working now on locating Server ID and listing available servers
+Have located Server IDs with Server Count, working on Schedule
